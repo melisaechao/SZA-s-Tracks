@@ -1,0 +1,66 @@
+[
+    {
+        "trackName": "Love Galore (feat. Travis Scott)",
+        "artistName": "SZA",
+        "artwork": "ctrl",
+        "collectionName": "Ctrl",
+        "primaryGenreName": "R&B/Soul",
+        "releaseDate": "Apr 28, 2017",
+        "trackTime": "4:35"
+    },
+    {
+        "trackName": "Childs Play (feat. Chance the Rapper)",
+        "artistName": "SZA",
+        "artwork": "z",
+        "collectionName": "Z",
+        "primaryGenreName": "R&B/Soul",
+        "releaseDate": "Apr 8, 2014",
+        "trackTime": "3:56"
+    },
+    {
+        "trackName": "Kill Bill",
+        "artistName": "SZA",
+        "artwork": "sos",
+        "collectionName": "SOS",
+        "primaryGenreName": "R&B/Soul",
+        "releaseDate": "Dec 8, 2022",
+        "trackTime": "3:11"
+    },
+    {
+        "trackName": "Power is Power",
+        "artistName": "SZA & The Weeknd & Travis Scott",
+        "artwork": "for-the-throne",
+        "collectionName": "For the Throne (Music Inspired by the HBO Series \"Game of Thrones\")",
+        "primaryGenreName": "R&B/Soul",
+        "releaseDate": "Apr 18, 2019",
+        "trackTime": "3:26"
+    },
+    {
+        "trackName": "No Love",
+        "artistName": "Summer Walker & SZA",
+        "artwork": "still-over-it",
+        "collectionName": "Still Over It",
+        "primaryGenreName": "R&B/Soul",
+        "releaseDate": "Jan 5, 2021",
+        "trackTime": "3:46"
+    },
+    {
+        "trackName": "I Hate U",
+        "artistName": "SZA",
+        "artwork": "ctrl",
+        "collectionName": "Ctrl",
+        "primaryGenreName": "R&B/Soul",
+        "releaseDate": "Dec 3, 2021",
+        "trackTime": "3:59"
+    },
+    {
+        "trackName": "All the Stars",
+        "artistName": "Kendrick Lamar & SZA",
+        "artwork": "collection",
+        "collectionName": "2019 GRAMMY® Nominees",
+        "primaryGenreName": "R&B/Soul",
+        "releaseDate": "Nov 16, 2018",
+        "trackTime": "3:39"
+    }
+    
+]
