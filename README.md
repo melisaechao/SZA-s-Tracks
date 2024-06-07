@@ -14,12 +14,6 @@ This iOS app project showcases tracks by the artist SZA. You can browse a list o
 
 ![App Preview](https://github.com/melisaechao/SZA-s-Tracks/blob/main/SZAtracks.gif?raw=true)
 
-## Getting Started
-
-1. Clone or download the project.
-2. Open the project in Xcode.
-3. Build and run the app on your iOS simulator or device.
-
 ## Project Structure
 
 The project consists of the following components:
